@@ -1,2 +1,2 @@
 //backend api url
-export const API="https://urlshortener-yiq2.onrender.com";
+export const API="http://127.0.0.1:3000";
