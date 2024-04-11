@@ -1,8 +1,14 @@
-# React + Vite
+Package Used:
+1) Tailwind Css
+2) DaisyUI
+3) React Router Dom
+4) Formik
+5) Yup
+6) Copy-to-clipboard
+7) Sweetalert2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1) For activating your mail id, Please do check out the backend resource code
+2) https://github.com/SabarinathanE/urlshortener-backend.git
+3) after register , you have to login then you can start to short the URL
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   
